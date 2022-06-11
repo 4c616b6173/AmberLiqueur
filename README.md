@@ -3,7 +3,7 @@
 
 ## Tabla de commits:
 | Fecha      | Version    | Dato del cambio                |
--------------------------------------------------- 
+|:----------:|:----------:|:------------------------------:|
 | 04/06/2022 | Beta 0.0.1 | Wireframe y estructura         |
 | 11/06/2022 | Beta 0.0.2 | Incorporacion CSS a index.html |
 
