@@ -1,7 +1,7 @@
 # AmberLiqueur
-# Link del Figma con el prototipo: https://www.figma.com/file/NEeWJ1wFjvfOSGiRy9eqQs/Amber-Liqueur?node-id=0%3A1
+### Link del Figma con el prototipo: https://www.figma.com/file/NEeWJ1wFjvfOSGiRy9eqQs/Amber-Liqueur?node-id=0%3A1
 
-# Cambios realizados en el commit 'Beta 0.0.1':
+## Cambios realizados en el commit 'Beta 0.0.1':
 
     - Incorporacion y modificacion de etiquetas en TODOS los html:
 
@@ -18,7 +18,7 @@
 
     - Cambio de nombre del archivo 'GPS.html' a 'gps.html'.
 
-# Cambios realizados en el commit 'Beta 0.0.2':
+## Cambios realizados en el commit 'Beta 0.0.2':
 
     Para esta entrega se pedia agregar recursos CSS al proyecto en 1(uno) archivo html. El archivo modificado es index.html.
 
