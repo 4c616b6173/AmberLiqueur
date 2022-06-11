@@ -32,28 +32,28 @@
 
     A continuacion se detallan los cambios:
 
-        * Separacion en <header></header> / <main></main> / <locate></locate> / <footer></footer>.
+        - Separacion en <header></header> / <main></main> / <locate></locate> / <footer></footer>.
 
-            * <header></header>: Se agrego un boton redireccional a <main id="more"></main> con efecto en css.
+            - <header></header>: Se agrego un boton redireccional a <main id="more"></main> con efecto en css.
 
-            * <main></main>: Se agrego boton a store.html con efecto en css.
+            - <main></main>: Se agrego boton a store.html con efecto en css.
 
-            * <locate></locate>: Se elimino gps.html y se incorporo el iframe en esta seccion del index.html.
+            - <locate></locate>: Se elimino gps.html y se incorporo el iframe en esta seccion del index.html.
 
-            * <footer></footer>: Diseño nuevo de footer que contiene el logo de la marca y 5 tarjetas (con border) a redes   sociales (en construccion).
+            - <footer></footer>: Diseño nuevo de footer que contiene el logo de la marca y 5 tarjetas (con border) a redes   sociales (en construccion).
 
-        * Incorporacios de Navbar funcional en <main></main> con adicion de efectos de seleccion (varios sitios estan en construccion, por eso no se dirige a ellos).
+        - Incorporacios de Navbar funcional en <main></main> con adicion de efectos de seleccion (varios sitios estan en construccion, por eso no se dirige a ellos).
 
-        * Cambio e incorporacion de fuentes mediante import de fonts.google.com y a traves de links en la seccion <head></head>.
+        - Cambio e incorporacion de fuentes mediante import de fonts.google.com y a traves de links en la seccion <head></head>.
 
-        * Correccion de fondos background.
+        - Correccion de fondos background.
         
-        * Incorporacion de un icono .ico. 
+        - Incorporacion de un icono .ico. 
 
 
 
     =====================================
-        **IMPORTANTE PARA CORRECCION**
+        ==IMPORTANTE PARA CORRECCION==
     =====================================
     Algunos puntos a aclarar:
 
