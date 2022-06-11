@@ -2,10 +2,10 @@
 ### Link del Figma con el prototipo: https://www.figma.com/file/NEeWJ1wFjvfOSGiRy9eqQs/Amber-Liqueur?node-id=0%3A1
 
 ## Tabla de commits:
-    | Fecha | Version| Dato del cambio |
-    | --------- | --------- | --------- |
-    | 04/06/2022 | Beta 0.0.1 | Wireframe y estructura|
-    | 11/06/2022 | Beta 0.0.2 | Incorporacion CSS a index.html |
+| Fecha      | Version    | Dato del cambio                |
+| ---------- | ---------- | ------------------------------ |
+| 04/06/2022 | Beta 0.0.1 | Wireframe y estructura         |
+| 11/06/2022 | Beta 0.0.2 | Incorporacion CSS a index.html |
 
 
 
