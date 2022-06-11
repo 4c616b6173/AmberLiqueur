@@ -1,5 +1,5 @@
 # AmberLiqueur
-### Link del Figma con el prototipo: https://www.figma.com/file/NEeWJ1wFjvfOSGiRy9eqQs/Amber-Liqueur?node-id=0%3A1
+#### Link del Figma con el prototipo: https://www.figma.com/file/NEeWJ1wFjvfOSGiRy9eqQs/Amber-Liqueur?node-id=0%3A1
 
 # Tabla de commits:
 | Fecha      | Version    | Dato del cambio                |
@@ -29,9 +29,9 @@
 
 # Cambios realizados en el commit 'Beta 0.0.2':
 
-## Para esta entrega se pedia agregar recursos CSS al proyecto en 1(uno) archivo html. El archivo modificado es index.html.
+### Para esta entrega se pedia agregar recursos CSS al proyecto en 1(uno) archivo html. El archivo modificado es index.html.
 
-## A continuacion se detallan los cambios:
+#### A continuacion se detallan los cambios:
 
         - Separacion en <header></header> / <main></main> / <locate></locate> / <footer></footer>.
 
@@ -57,9 +57,9 @@
 
 
 
-# ==IMPORTANTE PARA CORRECCION==
+# IMPORTANTE PARA CORRECCION
 
-## Algunos puntos a aclarar:
+#### Algunos puntos a aclarar:
 
     - Se conoce la posibilidad de que algunos vinculos esten fuera de servicio debido al proceso de construccion de los sitios.
 
