@@ -1,6 +1,17 @@
 # AmberLiqueur
 ### Link del Figma con el prototipo: https://www.figma.com/file/NEeWJ1wFjvfOSGiRy9eqQs/Amber-Liqueur?node-id=0%3A1
 
+## Tabla de commits:
+    | Fecha | Version| Dato del cambio |
+    | --------- | --------- | --------- |
+    | 04/06/2022 | Beta 0.0.1 | Wireframe y estructura|
+    | 11/06/2022 | Beta 0.0.2 | Incorporacion CSS a index.html |
+    | - | - | - |
+    | - | - | - |
+    | - | - | - |
+    | - | - | - |
+
+
 ## Cambios realizados en el commit 'Beta 0.0.1':
 
     - Incorporacion y modificacion de etiquetas en TODOS los html:
@@ -24,29 +35,29 @@
 
     A continuacion se detallan los cambios:
 
-        - Separacion en <header></header> / <main></main> / <locate></locate> / <footer></footer>.
+        * Separacion en <header></header> / <main></main> / <locate></locate> / <footer></footer>.
 
-            • <header></header>: Se agrego un boton redireccional a <main id="more"></main> con efecto en css.
+            * <header></header>: Se agrego un boton redireccional a <main id="more"></main> con efecto en css.
 
-            • <main></main>: Se agrego boton a store.html con efecto en css.
+            * <main></main>: Se agrego boton a store.html con efecto en css.
 
-            • <locate></locate>: Se elimino gps.html y se incorporo el iframe en esta seccion del index.html.
+            * <locate></locate>: Se elimino gps.html y se incorporo el iframe en esta seccion del index.html.
 
-            • <footer></footer>: Diseño nuevo de footer que contiene el logo de la marca y 5 tarjetas (con border) a redes   sociales (en construccion).
+            * <footer></footer>: Diseño nuevo de footer que contiene el logo de la marca y 5 tarjetas (con border) a redes   sociales (en construccion).
 
-        - Incorporacios de Navbar funcional en <main></main> con adicion de efectos de seleccion (varios sitios estan en construccion, por eso no se dirige a ellos).
+        * Incorporacios de Navbar funcional en <main></main> con adicion de efectos de seleccion (varios sitios estan en construccion, por eso no se dirige a ellos).
 
-        - Cambio e incorporacion de fuentes mediante import de fonts.google.com y a traves de links en la seccion <head></head>.
+        * Cambio e incorporacion de fuentes mediante import de fonts.google.com y a traves de links en la seccion <head></head>.
 
-        - Correccion de fondos background.
+        * Correccion de fondos background.
         
-        - Incorporacion de un icono .ico. 
+        * Incorporacion de un icono .ico. 
 
 
 
-    ===================================
-        IMPORTANTE PARA CORRECCION
-    ===================================
+    =====================================
+        **IMPORTANTE PARA CORRECCION**
+    =====================================
     Algunos puntos a aclarar:
 
         - Se conoce la posibilidad de que algunos vinculos esten fuera de servicio debido al proceso de construccion de los sitios.
