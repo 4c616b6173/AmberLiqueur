@@ -38,7 +38,9 @@
 
         - Cambio e incorporacion de fuentes mediante import de fonts.google.com y a traves de links en la seccion <head></head>.
 
-        - Correccion de fondos background. 
+        - Correccion de fondos background.
+        
+        - Incorporacion de un icono .ico. 
 
 
 
