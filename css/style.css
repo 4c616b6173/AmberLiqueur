@@ -21,11 +21,21 @@ body{
 }
 
 header{
-    background-image: url('../media/fondo1.jpg');
-    background-size: cover;
+
     height: 667px;
     width: 100%;
 }
+.masthead{
+    background-image: url('../media/fondo1.jpg');
+    background-size: cover;
+}
+.masthead_index_form{
+    background-image: url('../media/indexForm.jpg');
+    background-size: cover;
+}
+
+
+
 aside {
     background-color: #ffffff;
     width: 50%;
