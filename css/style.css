@@ -32,6 +32,7 @@ header{
 .masthead_index_form{
     background-image: url('../media/indexForm.jpg');
     background-size: cover;
+    background-position: 340px;
 }
 
 
@@ -48,6 +49,16 @@ aside {
     color: rgb(0, 0, 0);
     padding-top: 255px;
     padding-left: 59px;
+    text-shadow: 4px 4px 4px rgb(107, 107, 107);
+}
+#al_index_form_title{
+    font-size: 60px;
+    font-weight: lighter;
+    color: rgb(0, 0, 0);
+    padding-top: 100px;
+    /* padding-left: 30px; */
+    text-shadow: 4px 4px 4px rgb(107, 107, 107);
+    text-align: center;
 }
 
 #al_subt{
@@ -56,7 +67,17 @@ aside {
     font-weight: lighter;
     color:rgb(0, 0, 0);
     padding-left: 59px;
+    text-shadow: 4px 4px 4px rgb(107, 107, 107);
 }
+#al_index_form_subt{
+    font-size: 50px;
+    font-family: 'Italianno', cursive;
+    font-weight: lighter;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(107, 107, 107);
+}
+
 .conteiner{
     display: flex;
     align-items: center;
@@ -65,6 +86,7 @@ aside {
 }
 .button{
     display: flex;
+    
     
 }
 .btn{
@@ -75,6 +97,7 @@ aside {
     padding-left: 50px;
     font-size: 1.25rem;
     position: relative;
+    box-shadow: 4px 4px 4px rgb(107, 107, 107);
 }
 
 .btn-1{
@@ -106,6 +129,7 @@ aside {
 .btn-1:hover::before{
     transform: translate(12px, 12px);
 }
+
 #buttomCM{
     text-decoration: none;
     
@@ -307,7 +331,7 @@ nav{
 footer{
     width: 100%;
     height: 333.5px;
-    background-color: #ffffff;
+    background-color: #717C89;
 }
 .logo_footer{
     display: flex;
@@ -320,13 +344,16 @@ footer{
     display: flex;
     text-decoration: none;
     text-transform: uppercase;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 4px black;
 }
 .copyright_footer{
     display: flex;
     justify-content: center;
     align-content: top;
     padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 4px black;
 }
 
 .facebook_card,
@@ -371,4 +398,159 @@ footer{
     color:#000000
 
 }
-/* FACEBOOK CARD BUTTON STYLE */
+
+
+
+
+/* index form section */
+.index_form{
+    text-align: center;
+}
+
+.index_form input[type=mail], input[type=password]{
+    border: 0;
+    background-color: #000000;
+    border-radius: 15px;
+    text-indent: 10px;
+    color: #ffffff;
+    
+}
+.index_form input[type=mail]{
+    margin-top: 50px;
+}
+.index_form input[type=mail], input[type=password]{
+    height: 30px;
+    width: 200px;
+}
+.index_form input[type=submit]{
+    height: 30px;
+    width: 100px;
+}
+
+
+.conteiner_index_form{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    padding-top: 20px;
+    margin-left: 72px;
+}
+.button_index_form{
+    display: flex;
+    
+}
+.btn_index_form{
+    text-decoration: none;
+    padding-top: 5px;
+    padding-right: 85px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    font-size: 1.0rem;
+    margin-left: 195px;
+    position: relative;
+}
+
+.btn-1_index_form{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border-radius: 30px;
+    border: 30px;
+    border-color: #000000;
+
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    transition: transform 0.3s ease;
+
+}
+.btn-1_index_form::after, .btn-1_index_form::before{
+    content:'';
+    position:absolute;
+    opacity: 0.3;
+    background: black;
+    border-radius: inherit;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    z-index:-1;
+    transition: transform 0.3s ease;
+}
+.btn-1_index_form:hover{
+    transform: translate(-12px, -12px);
+}
+.btn-1_index_form:hover::after{
+    transform: translate(6px, 6px);
+}
+.btn-1_index_form:hover::before{
+    transform: translate(12px, 12px);
+}
+.register{
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: #ffffff;
+    width: fit-content;
+    margin-left: 285px;
+    padding: 5px 8px;
+    border-radius: 15px;
+}
+#register_index{
+    text-decoration: none;
+    color: #000000;
+}
+/* index form footer */
+.logo_footer_index_form{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+}
+.logo_footer_index_form a{
+    font-family: 'italianno', 'coursive';
+    font-size: 90px;
+    display: flex;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 4px black;
+}
+.copyright_footer_index_form{
+    display: flex;
+    justify-content: center;
+    align-content: top;
+    padding-bottom: 10px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px black;
+}
+
+.facebook_card_index_form,
+.instagram_card_index_form, 
+.twitter_card_index_form, 
+.whatsapp_card_index_form, 
+.linkedin_card_index_form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    margin-right: 2.5rem;
+    margin-left: 2.5rem;
+    background-color: #ffffff;
+    box-shadow: 0 10px 20px -10px #00000070;
+    width: 20%;
+    border-radius: 30px;
+}
+.social_media_index_form{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 200px;
+}
+.facebook_card_index_form,
+.instagram_card_index_form, 
+.twitter_card_index_form, 
+.whatsapp_card_index_form, 
+.linkedin_card_index_form i{
+    font-size: 50px;
+    color:#000000
+}
